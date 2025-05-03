@@ -1,0 +1,144 @@
+
+
+/*? __________________________________________________Home___________________________________  */
+
+@media (max-width: 575.98px) {
+  .text-center h1 {
+    font-size: 40px;
+  }
+  .text-center h4 {
+    font-size: 14px;
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .text-center h1 {
+    font-size: 60px;
+  }
+  .text-center h4 {
+    font-size: 16px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .text-center h1 {
+    font-size: 80px;
+  }
+  .text-center h4 {
+    font-size: 17px;
+  }
+}
+
+  /* !______________________________________________________Media quary for home nav bar_______________________________________ */
+
+  @media screen and (max-width: 640px) {
+    .carousel-control-prev1,
+    .carousel-control-next1 {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .carousel-control-prev1,
+    .carousel-control-next1 {
+      display: none;
+    }}
+  @media screen and (max-width: 480px) {
+    .carousel-control-prev1,
+    .carousel-control-next1 {
+      display: none;
+    }
+  }
+
+
+/* ?_______________________________________________Reviews________________________________________________ */
+
+@media (max-width: 768px) {
+  .carousel-inner .container {
+    padding: 1rem !important;
+  }
+
+  .imgService {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 1rem;
+  }
+
+  .clent-name {
+    font-size: 1rem;
+  }
+
+  .testimonial-info {
+    font-size: 10px;
+    letter-spacing: 0.02em;
+  }
+
+  .info {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .btnCarousel {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+  }
+
+  .arrows {
+    font-size: 25px;
+  }
+
+  .customers {
+    font-size: 10px;
+    padding: 1rem 0 !important;
+  }
+}
+
+/* ?_______________________________________________ work ________________________________________________ */
+
+@media screen and (max-width: 640px) {
+    .card3 {
+      padding-top: 25px;
+      padding-bottom: 30px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .card3 {
+      padding-top: 25px;
+      padding-bottom: 30px;
+    }
+  }
+
+  /* ?____________________________________________________Contact______________________________ */
+  @media (max-width: 768px) {
+    .tittle1 {
+      padding: 20px;
+      text-align: center;
+    }
+  
+    .title-contact::before {
+      font-size: 2em;
+      top: -0.3em;
+      left: 0;
+    }
+  
+    .btn-contact {
+      width: 100%;
+      font-size: 14px;
+      height: 50px;
+      margin: 10px 0;
+    }
+  
+    iframe {
+      height: 300px !important;
+    }
+  }
+  
+
+
+
+
+
+
+ 
