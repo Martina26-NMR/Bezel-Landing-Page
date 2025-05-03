@@ -20,7 +20,7 @@ Bezel is a modern, clean, and responsive landing page built using **HTML**, **CS
 
 ## 🚀 Live Demo
 
-[Click here to view the live site](https://your-site-name.netlify.app) 
+[Click here to view the live site](https://bezel-landing-page.netlify.app/) 
 
 ## 📂 How to Use
 
